@@ -13,5 +13,3 @@ rl.on("line", function (line) {
   const B = Number(input[1]);
   console.log(`${A} + ${B} = ${A + B}`);
 });
-//테스트
-const test = 0;
